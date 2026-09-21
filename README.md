@@ -215,4 +215,4 @@ Maqetta is offered as a full free version with all features and updates included
 Ready to enhance your mobile interface design projects? **Download Maqetta free today and unlock your creativity!**
 
 ---
-**Last updated:** 2026-09-21 14:37:17 UTC
+**Last updated:** 2026-09-21 19:47:16 UTC
